@@ -31,7 +31,7 @@ If you find our work helpful, please cite us as:
 @article{he2026anchored,
   title={{Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model}},
   author={Jacqueline He and Jonathan Hayase and Wen-tau Yih and Sewoong Oh and Luke Zettlemoyer and Pang Wei Koh},
-  journal={arXiv preprint},
+  booktitle={International Conference on Machine Learning (ICML)},
   year={2026}
 }
 ```
